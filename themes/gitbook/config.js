@@ -1,6 +1,6 @@
 const CONFIG = {
 
-  INDEX_PAGE: 'about', // 文档首页显示的文章，请确此路径包含在您的notion数据库中
+  INDEX_PAGE: 'content', // 文档首页显示的文章，请确此路径包含在您的notion数据库中
 
   // 菜单
   MENU_CATEGORY: true, // 显示分类
